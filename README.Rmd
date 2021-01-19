@@ -1,11 +1,11 @@
 ---
 title: "Lab 2: Introduction to RStudio"
-author: "___"
+author: "Ethan Dotzler"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE ____ WITH YOUR OWN TEXT
+
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
@@ -13,8 +13,8 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+- To Understand working with R Script itself, and not just chunks.
+- To work with R and learn how to use it to calculate results and data.
 
 ## Repository contents
 
