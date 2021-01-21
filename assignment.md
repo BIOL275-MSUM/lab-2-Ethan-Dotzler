@@ -1,7 +1,50 @@
 Lab 2 Assignment
 ================
 \_\_\_
-2021-01-19
+2021-01-21
+
+## Session Info
+
+Here is my session information:
+
+``` r
+sessioninfo::session_info()
+```
+
+    ## ─ Session info ───────────────────────────────────────────────────────────────
+    ##  setting  value                       
+    ##  version  R version 4.0.3 (2020-10-10)
+    ##  os       macOS Big Sur 10.16         
+    ##  system   x86_64, darwin17.0          
+    ##  ui       X11                         
+    ##  language (EN)                        
+    ##  collate  en_US.UTF-8                 
+    ##  ctype    en_US.UTF-8                 
+    ##  tz       America/Chicago             
+    ##  date     2021-01-21                  
+    ## 
+    ## ─ Packages ───────────────────────────────────────────────────────────────────
+    ##  package     * version date       lib source        
+    ##  assertthat    0.2.1   2019-03-21 [1] CRAN (R 4.0.2)
+    ##  cli           2.2.0   2020-11-20 [1] CRAN (R 4.0.2)
+    ##  crayon        1.3.4   2017-09-16 [1] CRAN (R 4.0.2)
+    ##  digest        0.6.27  2020-10-24 [1] CRAN (R 4.0.2)
+    ##  evaluate      0.14    2019-05-28 [1] CRAN (R 4.0.1)
+    ##  fansi         0.4.2   2021-01-15 [1] CRAN (R 4.0.3)
+    ##  glue          1.4.2   2020-08-27 [1] CRAN (R 4.0.2)
+    ##  htmltools     0.5.1   2021-01-12 [1] CRAN (R 4.0.2)
+    ##  knitr         1.30    2020-09-22 [1] CRAN (R 4.0.2)
+    ##  magrittr      2.0.1   2020-11-17 [1] CRAN (R 4.0.2)
+    ##  rlang         0.4.10  2020-12-30 [1] CRAN (R 4.0.2)
+    ##  rmarkdown     2.6     2020-12-14 [1] CRAN (R 4.0.2)
+    ##  sessioninfo   1.1.1   2018-11-05 [1] CRAN (R 4.0.2)
+    ##  stringi       1.5.3   2020-09-09 [1] CRAN (R 4.0.2)
+    ##  stringr       1.4.0   2019-02-10 [1] CRAN (R 4.0.2)
+    ##  withr         2.3.0   2020-09-22 [1] CRAN (R 4.0.2)
+    ##  xfun          0.20    2021-01-06 [1] CRAN (R 4.0.2)
+    ##  yaml          2.2.1   2020-02-01 [1] CRAN (R 4.0.2)
+    ## 
+    ## [1] /Library/Frameworks/R.framework/Versions/4.0/Resources/library
 
 ## Instructions
 
@@ -218,4 +261,4 @@ ggplot(chick_data, aes(x = diet, y = weight, color = diet, fill = diet)) +
   )
 ```
 
-![](assignment_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](assignment_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->

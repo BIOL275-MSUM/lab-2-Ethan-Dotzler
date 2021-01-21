@@ -3,7 +3,15 @@ title: "Lab 2 Assignment"
 author: "___"
 date: "`r format(Sys.Date())`"
 output: github_document
----
+--- 
+
+## Session Info
+
+Here is my session information:
+
+```{r}
+sessioninfo::session_info()
+```
 
 ## Instructions
 
