@@ -1,6 +1,6 @@
 ---
 title: "Lab 2 Assignment"
-author: "___"
+author: "Ethan Dotzler"
 date: "`r format(Sys.Date())`"
 output: github_document
 --- 

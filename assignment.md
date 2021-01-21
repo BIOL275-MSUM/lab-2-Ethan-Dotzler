@@ -1,6 +1,6 @@
 Lab 2 Assignment
 ================
-\_\_\_
+Ethan Dotzler
 2021-01-21
 
 ## Session Info
